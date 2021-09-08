@@ -526,8 +526,8 @@ input {
           transform: var(--img-scale);
 }
 
-.swiper-container-3d .swiper-slide-shadow-left,
-.swiper-container-3d .swiper-slide-shadow-right {
+.swiper-3d .swiper-slide-shadow-left,
+.swiper-3d .swiper-slide-shadow-right {
   background-image: none;
 }
 
